@@ -1,0 +1,76 @@
+[
+  {
+    "id": "chequeoTramo",
+    "nombre": "Chequeo Tramo",
+    "subPaginas": [
+      {
+        "id": "acuerdoMarco",
+        "nombre": "Acuerdo Marco",
+        "filas": ["Fila 1", "Fila 2", "Fila 3", "Fila 4", "Fila 5", "Fila 6"]
+      },
+      {
+        "id": "telefonicaFijas",
+        "nombre": "Telefónica Fijas",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      },
+      {
+        "id": "telefonicaServicios",
+        "nombre": "Telefónica Servicios",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      },
+      {
+        "id": "telefonicaMoviles",
+        "nombre": "Telefónica Móviles",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      },
+      {
+        "id": "telefonicaEnlaces",
+        "nombre": "Telefónica Enlaces",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      },
+      {
+        "id": "telecomCompleto",
+        "nombre": "Telecom Completo",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      }
+    ]
+  },
+  {
+    "id": "inventarios",
+    "nombre": "Inventarios",
+    "subPaginas": [
+      {
+        "id": "listaInventarios",
+        "nombre": "Lista de Inventarios",
+        "filas": ["Producto 1", "Producto 2", "Producto 3"]
+      }
+    ]
+  },
+  {
+    "id": "usuarios",
+    "nombre": "Usuarios",
+    "subPaginas": [
+      {
+        "id": "listaUsuarios",
+        "nombre": "Lista de Usuarios",
+        "filas": []  
+      }
+    ]
+  },
+  {
+    "id": "excel2",
+    "nombre": "Excel 2",
+    "subPaginas": [
+      {
+        "id": "hoja1",
+        "nombre": "Hoja 1",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      },
+      {
+        "id": "hoja2",
+        "nombre": "Hoja 2",
+        "filas": ["Fila 1", "Fila 2", "Fila 3"]
+      }
+    ]
+  }
+]

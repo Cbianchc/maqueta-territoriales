@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "nombre": "Pipi",
+    "apellido": "Perez",
+    "email": "pipi@renaper.com",
+    "telefono": "1234567",
+    "area": "Territoriales",
+    "rol": "Coordinador",
+    "permisos": {
+      "chequeoTramo": true,
+      "acuerdomarco": true,
+      "telefonicafijas": true,
+      "telefonicamoviles": true,
+      "inventarios": true
+    }
+  },
+  {
+    "id": "2",
+    "nombre": "Pablo",
+    "apellido": "Director",
+    "email": "pablo@empresa.com",
+    "rol": "Director",
+    "permisos": {
+      "chequeoTramo": true,
+      "acuerdomarco": false,
+      "telefonicafijas": true,
+      "telefonicamoviles": false,
+      "inventarios": true
+    }
+  },
+  {
+    "id": "3",
+    "nombre": "Diego",
+    "apellido": "Operador",
+    "email": "diego@empresa.com",
+    "rol": "Operador",
+    "permisos": {
+      "chequeoTramo": true,
+      "acuerdomarco": false,
+      "telefonicafijas": true,
+      "telefonicamoviles": false,
+      "inventarios": false
+    }
+  },
+  {
+    "id": "4",
+    "nombre": "Sebastian",
+    "apellido": "Invitado",
+    "email": "sebastian@empresa.com",
+    "rol": "Invitado",
+    "permisos": {
+      "chequeoTramo": false,
+      "acuerdomarco": false,
+      "telefonicafijas": false,
+      "telefonicamoviles": false,
+      "inventarios": true
+    }
+  }
+]
